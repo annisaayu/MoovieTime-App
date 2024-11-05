@@ -1,0 +1,1 @@
+import{_ as a,c as s,a as e,o as n}from"./BQcZhiqi.js";const o={},i={class:"text-center"};function c(l,t){return n(),s("div",i,t[0]||(t[0]=[e("h1",{class:"text-3xl font-bold my-6"},"Detail Page",-1),e("p",{class:"text-lg"},"Detail informasi tentang film tertentu akan ditampilkan di sini.",-1)]))}const d=a(o,[["render",c]]);export{d as default};
